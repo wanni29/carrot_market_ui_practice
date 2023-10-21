@@ -1,4 +1,4 @@
-import 'package:carrot_market_ui/screens/components/chatting_screen.dart';
+import 'package:carrot_market_ui/screens/chatting/chatting_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
