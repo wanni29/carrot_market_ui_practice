@@ -1,16 +1,12 @@
-# carrot_market_ui
+클론코딩 연습버전 입니다.
 
-A new Flutter project.
+프로젝트 들어가기에 앞서 서버통신 전까지 모든 과정을 미리 연습하고 
+프로젝트에 대한 시간적 효율을 더욱 효과적으로 만드는것에 목표가 있습니다.
 
-## Getting Started
+세세한 목표는 다음과 같습니다.
 
-This project is a starting point for a Flutter application.
+## 1. 기본적인 UI를 제작함으로 프로젝트와 나의 팀원에게 효율적인 시간을 제공한다.
 
-A few resources to get you started if this is your first Flutter project:
+## 2. ConsumerWidget을 사용함으로 상태관리에 더욱 효과적으로 사용할수있는 방안에 익숙해진다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 3. 각각의 위젯을 블로깅하여 어떤 화면이 나오더라도 견적을 내어서 만들수있도록 한다.
