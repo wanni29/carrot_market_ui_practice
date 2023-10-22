@@ -13,13 +13,13 @@ class SearchTextField extends StatelessWidget {
           focusedBorder: _buildOutLineInputBorder(),
           filled: true,
           fillColor: Colors.grey[200],
-          prefix: Icon(
+          prefixIcon: Icon(
             CupertinoIcons.search,
             color: Colors.grey,
           ),
           contentPadding:
               const EdgeInsets.only(left: 0, bottom: 15, top: 15, right: 0),
-          hintText: "좌동 주변 가게를 찾아 보세요.",
+          hintText: '좌동 주변 가게를 찾아 보세요.',
           hintStyle: TextStyle(fontSize: 18),
         ),
       ),

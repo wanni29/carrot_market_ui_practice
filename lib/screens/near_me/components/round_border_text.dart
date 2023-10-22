@@ -18,11 +18,9 @@ class RoundBorderText extends StatelessWidget {
           borderRadius: BorderRadius.circular(18.0),
           border: Border.all(width: 0.5, color: Colors.grey),
         ),
-        child: Text(
-          title,
-          textAlign: TextAlign.center,
-          style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
-        ),
+        child: Text(title,
+            textAlign: TextAlign.center,
+            style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold)),
       ),
     );
   }
